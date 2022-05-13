@@ -34,8 +34,8 @@ APCA Store - A gym based Ecommerce website
     Note : You can change the database from "Update Database Info" file for improvement.
 
 # Contributions :
-Dharavath Anvesh
+    Dharavath Gouri Pranay
+   
+    Dharavath Anvesh
 
-Kurra Chandra Shekar
-
-Dharavath Gouri Pranay
+    Kurra Chandra Shekar
