@@ -1,0 +1,15 @@
+**Database Name: ecommerceapp**
+
+**Developed by APCA Members**
+
+**Recommended PHP Version 5.6.3**
+
+
+
+**Admin Login Details**
+
+Email:    abhiak@gmail.com
+Password: abhiak
+
+**Project Folder should not be changed from "Ecommerce-app-h" to others
+without making changes in the code**
