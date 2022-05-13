@@ -31,9 +31,9 @@ APCA Store - A gym based Ecommerce website
                  (A) Mail id - abhirammakam1729@gmail.com
                      Password - abhirammakam1729
                    
-Note : You can change the database from "Update Database Info" file for improvement.
+    Note : You can change the database from "Update Database Info" file for improvement.
 
-# Contributions
+# Contributions :
 Dharavath Anvesh
 
 Kurra Chandra Shekar
