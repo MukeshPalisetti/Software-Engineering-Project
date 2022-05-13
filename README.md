@@ -13,20 +13,22 @@ Instructions :
 9) All the login details are provided inside the sql file.
 
    Customer Credentials :
+   
                      Mail id - abhiak@gmail.com
                      Password - abhiak
                      
    Admin Credentials :
-                   Mail id - anvesh@gmail.com
-                   Password - anvesh
+   
+                 (A) Mail id - anvesh@gmail.com
+                     Password - anvesh
                      
-                   Mail id - pranay@gmail.com
-                   Password - pranay    
+                 (P) Mail id - pranay@gmail.com
+                     Password - pranay    
     
-                   Mail id - chandra@gmail.com
-                   Password - chandra
+                 (C) Mail id - chandra@gmail.com
+                     Password - chandra
                      
-                   Mail id - abhirammakam1729@gmail.com
-                   Password - abhirammakam1729
+                 (A) Mail id - abhirammakam1729@gmail.com
+                     Password - abhirammakam1729
                    
 Note : You can change the database from "Update Database Info" file for improvement.
