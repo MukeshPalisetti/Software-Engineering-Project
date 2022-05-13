@@ -1,7 +1,7 @@
 # Software-Engineering-Project
 APCA Store - A gym based Ecommerce website
 
-Instructions :
+# Instructions :
 1) After you finish downloading the "ecommerce-app-h"(Available in Source Code folder), head over to your XAMPP directory.
 2) There you’ll find a folder naming “htdocs”.
 3) Inside the “htdocs” folder, paste the "ecommerce-app-h" folder.
@@ -32,3 +32,10 @@ Instructions :
                      Password - abhirammakam1729
                    
 Note : You can change the database from "Update Database Info" file for improvement.
+
+# Contributions
+Dharavath Anvesh
+
+Kurra Chandra Shekar
+
+Dharavath Gouri Pranay
