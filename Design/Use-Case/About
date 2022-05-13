@@ -1,0 +1,8 @@
+Use Case is a graphical way of showing how our project works.
+It consists of 4 components.
+1) Entries - These are generally the functionalities represented in a oval shape.
+2) Actor - One who interacts with the system i.e admin, customer..etc.
+3) System Boundary - This is the boundary that seperates system from actors.
+4) Relations - Relations are of 2 types i.e include, extend.
+   Include - Which must be run in order to perform base use case.
+   Extend - Optional use case which extends the base use case, base use case can run successfully even without invoking/calling the extending use case.
